@@ -23,7 +23,8 @@ I'm an **Associate Software Engineer at NxtWave** (Hyderabad, India) with **1.8+
 - 👥 Built and supported platforms serving **7,000+ active users**
 - 🤖 Designed AI workflow automations with **OpenAI and Gemini APIs** that cut manual reporting time by **up to 40%**
 - ⚡ Improved backend responsiveness by **~30%** and reduced API response times by **~25%**
-- ☁️ Maintained production deployments on **AWS, Vercel, and PM2** with **99%+ uptime**
+- ☁️ Maintained production deployments on **AWS, Vercel, and render** with **99%+ uptime**
+- 🤖 AI-Driven Prototyping and Development with Replit
 
 ---
 
