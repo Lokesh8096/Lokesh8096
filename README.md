@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://lokesh-port-folio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-02060d?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/krovvidi-lokesh-395210237/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://lokesh-port-folio.netlify.app/" target="_balnk"><img src="https://img.shields.io/badge/Portfolio-02060d?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krovvidi-lokesh-395210237/?isSelfProfile=true" target="_balnk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lokeshk80964@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -45,7 +45,6 @@ I'm an **Associate Software Engineer at NxtWave** (Hyderabad, India) with **1.8+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 **Backend**
 
@@ -67,7 +66,6 @@ I'm an **Associate Software Engineer at NxtWave** (Hyderabad, India) with **1.8+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Cloud & DevOps**
@@ -78,7 +76,6 @@ I'm an **Associate Software Engineer at NxtWave** (Hyderabad, India) with **1.8+
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 **Tools**
 
