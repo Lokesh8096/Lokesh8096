@@ -125,8 +125,8 @@ Responsive, SEO-friendly website for an interior and aluminium fabrication compa
 
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Lokesh8096&show_icons=true&include_all_commits=true&theme=shadow_green" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-eight-coral-99.vercel.app/api/top-langs/?username=Lokesh8096&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Lokesh8096&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Lokesh8096&show_icons=true&include_all_commits=true&theme=dark_github" alt="Top Languages" />
 </p>
 
 ---
